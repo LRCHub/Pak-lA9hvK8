@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "フェイバリット女子",
+  "base_artist": "iri",
+  "createdAt": "2026-03-15T14:42:46.743272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フェイバリット女子",
+      "artist": "iri",
+      "has_synced": true,
+      "path": "select/01_フェイバリット女子_iri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェイバリット女子",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_フェイバリット女子_iri.txt"
+    }
+  ]
+}
